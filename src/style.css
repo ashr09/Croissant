@@ -1,0 +1,32 @@
+body {
+  background-color: #f8ecd1;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1 {
+  color: #ac7d88;
+}
+
+p {
+  color: #85586f;
+}
+
+a {
+  color: #85586f;
+  margin: 80px 10px;
+  text-decoration: none;
+  background-color: #deb6ab;
+  padding: 10px 10px;
+}
+
+a:hover {
+  color: #f8ecd1;
+  transition: 0.3s ease-in-out;
+}
+
+img {
+  max-width: 200px;
+  max-height: 100%;
+  border-radius: 15px;
+}
